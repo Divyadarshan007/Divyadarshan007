@@ -64,6 +64,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divyadarshan007&repo=react-todo-app&theme=default" />
 </a>
 
+## 🔝 Top Projects
+
+- 🔗 [Project One](https://github.com/divyadarshan007/project-one) — A React-based e-commerce app using Stripe and Firebase
+- 🔗 [Project Two](https://github.com/divyadarshan007/project-two) — A Node.js REST API with MongoDB and JWT Auth
 
 
 ---
