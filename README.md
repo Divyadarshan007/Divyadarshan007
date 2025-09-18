@@ -46,16 +46,17 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=divyadarshan007&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.zcy.dev/api?username=divyadarshan007&show_icons=true&theme=default" alt="GitHub Stats (ZCY)" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyadarshan007&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=divyadarshan007&layout=compact&theme=default" alt="Top Languages (ZCY)" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyadarshan007&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-stats.lhy.life/api?username=divyadarshan007&show_icons=true" alt="GitHub Stats (lhy.life)" />
 </p>
+
 
 ---
 
