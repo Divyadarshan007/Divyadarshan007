@@ -50,12 +50,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyadarshan007&theme=default" alt="GitHub Stats (ZCY)" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyadarshan007&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+
 
 ## 🔝 Top Projects
 
-- 🔗 [Project One](https://test-yourself-tan.vercel.app/) — A Modern Web-Based Online Examination System with Integrated Admin Dashboard
-- 🔗 [Project Two](https://employee-system-mu.vercel.app/) — A Modern Web-Based Employee Management System with Admin Control
-- 🔗 [Project Three](https://react-todo-app-rust-beta.vercel.app/) — A Simple and Interactive React To-Do Application
+- 🔗 <a href="https://test-yourself-tan.vercel.app/" target="_blank">Project One</a> — A Modern Web-Based Online Examination System with Integrated Admin Dashboard  
+- 🔗 <a href="https://employee-system-mu.vercel.app/" target="_blank">Project Two</a> — A Modern Web-Based Employee Management System with Admin Control  
+- 🔗 <a href="https://react-todo-app-rust-beta.vercel.app/" target="_blank">Project Three</a> — A Simple and Interactive React To-Do Application  
 
 
 ---
