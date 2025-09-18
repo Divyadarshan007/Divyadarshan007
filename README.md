@@ -50,12 +50,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyadarshan007&theme=default" alt="GitHub Stats (ZCY)" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyadarshan007&show_icons=true" />
-</p>
-
-
-
 ## 🔝 Top Projects
 
 - 🔗 <a href="https://test-yourself-tan.vercel.app/" target="_blank">Project One</a> — A Modern Web-Based Online Examination System with Integrated Admin Dashboard  
