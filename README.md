@@ -46,20 +46,21 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats.zcy.dev/api?username=divyadarshan007&show_icons=true&theme=default](https://github-readme-streak-stats.herokuapp.com/?user=divyadarshan007&theme=default)" alt="GitHub Stats (ZCY)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyadarshan007&theme=default" alt="GitHub Stats (ZCY)" />
 </p>
 
 
 ## 🔥 Top Projects
 
-<a href="https://github.com/divyadarshan007/project-one">
+<a href="https://github.com/divyadarshan007/testYourself">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divyadarshan007&repo=testYourself&theme=default" />
 </a>
-<a href="https://github.com/divyadarshan007/project-one">
+
+<a href="https://github.com/divyadarshan007/employee-system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divyadarshan007&repo=employee-system&theme=default" />
 </a>
 
-<a href="https://github.com/divyadarshan007/project-two">
+<a href="https://github.com/divyadarshan007/react-todo-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divyadarshan007&repo=react-todo-app&theme=default" />
 </a>
 
