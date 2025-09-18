@@ -39,7 +39,6 @@
 
 ## 🏆 HackerRank Achievements
 
-![HackerRank Badge](https://img.shields.io/badge/HackerRank-Problem%20Solver-green)
 [![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4★-brightgreen)](https://www.hackerrank.com/dasdivyadarshan)  
 [![C++](https://img.shields.io/badge/C++-3★-blue)](https://www.hackerrank.com/dasdivyadarshan)    
 
