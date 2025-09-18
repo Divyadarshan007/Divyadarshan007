@@ -37,9 +37,11 @@
 
 ---
 
-## 🧠 HackerRank Trophy
+## 🏆 HackerRank Achievements
 
 ![HackerRank Badge](https://img.shields.io/badge/HackerRank-Problem%20Solver-green)
+[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4★-brightgreen)](https://www.hackerrank.com/dasdivyadarshan)  
+[![C++](https://img.shields.io/badge/C++-3★-blue)](https://www.hackerrank.com/dasdivyadarshan)    
 
 ---
 
@@ -50,24 +52,11 @@
 </p>
 
 
-## 🔥 Top Projects
-
-<a href="https://github.com/divyadarshan007/testYourself">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divyadarshan007&repo=testYourself&theme=default" />
-</a>
-
-<a href="https://github.com/divyadarshan007/employee-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divyadarshan007&repo=employee-system&theme=default" />
-</a>
-
-<a href="https://github.com/divyadarshan007/react-todo-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divyadarshan007&repo=react-todo-app&theme=default" />
-</a>
-
 ## 🔝 Top Projects
 
-- 🔗 [Project One](https://github.com/divyadarshan007/project-one) — A React-based e-commerce app using Stripe and Firebase
-- 🔗 [Project Two](https://github.com/divyadarshan007/project-two) — A Node.js REST API with MongoDB and JWT Auth
+- 🔗 [Project One](https://test-yourself-tan.vercel.app/) — A Modern Web-Based Online Examination System with Integrated Admin Dashboard
+- 🔗 [Project Two](https://employee-system-mu.vercel.app/) — A Modern Web-Based Employee Management System with Admin Control
+- 🔗 [Project Three](https://react-todo-app-rust-beta.vercel.app/) — A Simple and Interactive React To-Do Application
 
 
 ---
